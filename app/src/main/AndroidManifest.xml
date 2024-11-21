@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectAkhir_Riskita">
         <activity
-            android:name=".list_masyarakat"
+            android:name=".ListMasyarakatActivity"
             android:exported="false" />
         <activity
-            android:name=".Item_masyarakat"
+            android:name=".item_masyarakat"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

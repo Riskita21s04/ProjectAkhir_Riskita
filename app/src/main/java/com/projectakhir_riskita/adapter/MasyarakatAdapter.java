@@ -16,10 +16,6 @@ import com.projectakhir_riskita.R;
 import com.projectakhir_riskita.UpdateActivity;
 import com.projectakhir_riskita.db.DbHelper;
 import com.projectakhir_riskita.model.Masyarakat;
-import com.projectakhir_riskita.ListMasyarakatActivity;
-import com.projectakhir_riskita.UpdateActivity;
-import com.projectakhir_riskita.db.DbHelper;
-import com.projectakhir_riskita.model.Masyarakat;
 
 import java.io.Serializable;
 import java.util.ArrayList;

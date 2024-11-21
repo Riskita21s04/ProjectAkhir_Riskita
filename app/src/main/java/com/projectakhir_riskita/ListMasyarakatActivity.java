@@ -8,9 +8,6 @@ import android.util.Log;
 import com.projectakhir_riskita.adapter.MasyarakatAdapter;
 import com.projectakhir_riskita.db.DbHelper;
 import com.projectakhir_riskita.model.Masyarakat;
-import com.projectakhir_riskita.adapter.MasyarakatAdapter;
-import com.projectakhir_riskita.db.DbHelper;
-import com.projectakhir_riskita.model.Masyarakat;
 
 import java.util.ArrayList;
 public class ListMasyarakatActivity extends AppCompatActivity {
